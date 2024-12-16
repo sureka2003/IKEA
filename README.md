@@ -148,10 +148,10 @@ ORDER BY
 ---
 
 ## Contact Me
-📄 **[Resume](https://drive.google.com/file/d/1MprFBFLA7zugNGkSlYkCJwafZDyyVYur/view?usp=sharing)** 
-📧 **[Email](mailto:surekafathimsf2003@gmailcom)**  
-💼 **[LinkedIn](https://www.linkedin.com/in/surekafathima03/)**  
-📞 **Phone**: +91 82482 25454
+
+📄 **[Resume](https://drive.google.com/file/d/1MprFBFLA7zugNGkSlYkCJwafZDyyVYur/view?usp=sharing)**  
+📧 **[Email](mailto:surekafathimasf2003@gmail.com)**  
+📞 **Phone**: +91 82481 25454
 ---
 
 
