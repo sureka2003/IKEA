@@ -3,7 +3,7 @@ SETUP IKEA DATABASE SCHEMA
 DROP TABLE IF EXISTS inventory, sales, products, stores;
 
 —Product Table
-
+```sql
 CREATE TABLE products  
 (  
 	product\_id VARCHAR(10) PRIMARY KEY,	  
@@ -12,9 +12,9 @@ CREATE TABLE products
 	subcategory	VARCHAR(20),  
 	unit\_pice FLOAT  
 );
-
+```
 \-- Stores Table
-
+```sql
 CREATE TABLE stores  
 (  
 	store\_id	VARCHAR(10) PRIMARY KEY,  
@@ -22,9 +22,9 @@ CREATE TABLE stores
 	city	VARCHAR(25),  
 	country VARCHAR(25)  
 );
-
+```
 \-- Sales Table
-
+```sql
 CREATE TABLE sales  
 (  
 	order\_id 	VARCHAR(10) PRIMARY KEY,  
@@ -35,8 +35,9 @@ CREATE TABLE sales
 	unit\_price FLOAT,	  
 	store\_id VARCHAR(10) REFERENCES stores(store\_id) \--FK  
 );
-
+```
 \-- Inventory Table  
+```sql
 CREATE TABLE inventory  
 (  
 	inventory\_id SERIAL PRIMARY KEY,  
@@ -44,6 +45,7 @@ CREATE TABLE inventory
 	current\_stock 	INT,  
 	reorder\_level INT  
 );
-
+```
+```sql
 SELECT 'All table created\!';
-
+```
