@@ -1,6 +1,6 @@
 # IKEA Retail Sales SQL Project
 
-![Project Banner Placeholder](https://github.com/najirh/sql-b01-ikea/blob/main/Ikea-logo.png)
+![Project Banner Placeholder](https://github.com/sureka2003/IKEA/blob/main/Ikea-logo.png)
 
 Welcome to the **IKEA Retail Sales SQL Project**! This project leverages a detailed dataset of millions of sales records, product inventory, and store information across IKEA's global operations. The analysis focuses on uncovering sales trends, product performance, and inventory management insights to assist in data-driven decision-making.
 
@@ -64,6 +64,12 @@ The IKEA Retail Sales SQL Project demonstrates the use of SQL to analyze retail 
 - **reorder_level**: Minimum stock level to trigger a reorder.
 
 ---
+## ERD (Entity-Relationship Diagram)
+
+Here’s the ERD for the IKEA Retail Sales SQL Project:
+
+![ERD Placeholder](https://github.com/najirh/sql-b01-ikea/blob/main/IKEA.png)
+
 
 ## Business Problems
 
@@ -147,10 +153,5 @@ ORDER BY
 
 ---
 
-## ERD (Entity-Relationship Diagram)
-
-Here’s the ERD for the IKEA Retail Sales SQL Project:
-
-![ERD Placeholder](https://github.com/najirh/sql-b01-ikea/blob/main/IKEA.png)
 
 ---
